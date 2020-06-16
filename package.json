@@ -1,6 +1,6 @@
 {
   "name": "@ReactSeam/combo",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Combo Component description",
   "license": "ISC",
   "main": "dist/combo.js",
